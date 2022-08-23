@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **a great company to start my journey in software engineer**
 
-- 🤝 I’m looking for help with **everything that is in my hands**
-
 - 👨‍💻 All of my projects are available at [working on it](working on it)
 
 - 💬 Ask me about **cats**
